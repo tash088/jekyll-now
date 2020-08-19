@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I am in the Online Masters in Statistics program and I work in the mortgage insurance industry.
 
-I like to play tennis and I have two daughters, ages 5 and 2. 
+I am in the **Online Masters in Statistics** program.
 
-I also have a terrier mix named Troxie.
+I like to play tennis and I have two daughters, ages 5 (or in math terms 2^2^+1) and 2. 
+
+I also have a terrier mix named *Troxie*.
+
+My professional profile can be found here <https://www.linkedin.com/in/taylor-ashby-a4530b30/>
 
 
 ### More Information
