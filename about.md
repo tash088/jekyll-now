@@ -7,7 +7,7 @@ permalink: /about/
 
 I am in the **Online Masters in Statistics** program.
 
-I like to play tennis and I have two daughters, ages 5 (or in math terms 2^2^ +1) and 2. 
+I like to play tennis and I have two daughters, ages 5 and 2. 
 
 I also have a terrier mix named *Troxie*.
 
