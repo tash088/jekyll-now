@@ -1,3 +1,9 @@
+ 
+ ---
+layout: post
+title: Learning R
+---
+
  #What are your thoughts on R vs whatever other software you've used? 
  test answer 1
  
