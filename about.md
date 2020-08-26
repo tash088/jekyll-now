@@ -13,11 +13,6 @@ I also have a terrier mix named *Troxie*.
 
 My professional profile can be found here <https://www.linkedin.com/in/taylor-ashby-a4530b30/>
 
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tlashby01@gmail.com](mailto:tlashby01@gmail.com)
