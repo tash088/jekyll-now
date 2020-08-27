@@ -20,7 +20,7 @@ For example, want to read in a csv file? Put the path of your file into read_csv
 
 Just the comfort level, I have to be more thoughtful and do more Googling when using R, simply because I'm new to it. 
 In particular, I miss being able to debug better--I am used to interpreting the errors in the log in SAS, with R its 
-harder for me to figuer out what is going wrong, though that'll probably come with time as well.
+harder for me to figure out what is going wrong, though that'll probably come with time as well.
  
 **Do you consider R a difficult language to learn?**   
 
