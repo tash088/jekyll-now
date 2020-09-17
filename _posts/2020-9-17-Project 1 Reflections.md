@@ -3,7 +3,7 @@ layout: post
 title: Project 1 Reflections
 ---
 
-Here is the link to my results for Project 1: https://tash088.github.io/gocanes/
+Here is the link to my results for Project 1: [https://tash088.github.io/gocanes/](https://tash088.github.io/gocanes/)
 
 For Project 1, I created a vignette that walks the user through how to access data from the NHL records and NHL stats APIs. I used plots, contingency tables, and quantitative summaries to explore the data. A few findings: 
 * There was a burst of activity forming NHL teams in the 1920s, several of those franchises are no longer around.
