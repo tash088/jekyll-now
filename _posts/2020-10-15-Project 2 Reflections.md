@@ -7,6 +7,6 @@ A few thoughts on the project:
 
 This project went more smoothly than Project #1 for me (largely because I had worked out some of the kinks in interacting with GitHub), so there is not much I would do differently. If anything, I'd probably try to finish it before the due date rather than waiting until the last minute. It seems the age old problem of procrastination is a persistent one.
 
-The most difficult part of the project for me was learning how to properly use the train() and gbm() functions during the modeling process, particularly when it comes to tuning parameters.
+The most difficult part of the project for me was getting my README file to show up on the GitHub pages website. I'm not sure why this is so finicky and difficult, but it took a lot of tinkering to simply get it to show up.
 
 My takeaways from this project are: 1)boosted tree models a powerful tool for doing predictive modeling and, 2) one must be ever-vigilant in the fight against procrastination.
